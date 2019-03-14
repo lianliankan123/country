@@ -1,0 +1,31 @@
+{
+  "resultCode": "0",
+  "resultMsg": "",
+  "data": {
+    "currPage": 1,
+    "pageSize": 10,
+    "data": {
+           "adminbaseinfoList": {
+               "id": "1",
+               "position":"总管理员",
+               "userCode": "lss",
+               "userName": "楚乔",
+               "email": "81438234@qq.com"
+             },
+           "userbaseinfoList": [
+            {
+               "id": "2",
+               "position":"管理员",
+               "userCode": "lvmanna",
+               "userName": "吕蔓娜",
+               "email": null
+             },{
+               "id": "3",
+               "position":"管理员",
+               "userCode": "liyu",
+               "userName": "李瑜",
+               "email": "liyu@noahhealthcare.com"
+             }]
+      }
+    }
+}

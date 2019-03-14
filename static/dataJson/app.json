@@ -1,0 +1,33 @@
+{
+  "data":{  
+    "data": [
+      {
+        "adminid": "2",
+        "content":"delete direction named '舞蹈'"
+      },
+      {
+       "adminid": "2",
+        "content":"edit direction named '学习'"
+      },
+      {
+       "adminid": "2",
+        "content":"delete node named 'java' from direction name '学习'"
+      },
+      {
+       "adminid": "2",
+        "content":"add node named 'c++' from direction name '学习'"
+      },
+      {
+       "adminid": "2",
+        "content":"add direction named '茶道'"
+      },
+      {
+       "adminid": "2",
+        "content":"add links 'tomcat' to 'c++' in direction named '学习'"
+      },{
+       "adminid": "2",
+        "content":"delete links 'vue' to 'tomcat' in direction named '学习'"
+      }
+    ]   
+    }
+}
